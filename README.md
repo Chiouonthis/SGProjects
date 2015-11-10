@@ -1,2 +1,2 @@
 # SGProjects
-Selection of projects build during my time at the Software Guild
+Selection of projects built during my time at the Software Guild
